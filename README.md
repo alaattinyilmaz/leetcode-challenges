@@ -23,3 +23,9 @@ Algorithm solutions for leet-code challenges.
 283-move-zeroes: https://leetcode.com/problems/move-zeroes/
 
 167-two-sum-ii-input-array-is-sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+### Day4: two-pointers:
+
+344-reverse-string: https://leetcode.com/problems/reverse-string/
+
+557-reverse-words-in-a-string-iii - https://leetcode.com/problems/reverse-words-in-a-string-iii/
