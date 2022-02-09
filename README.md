@@ -29,3 +29,9 @@ Algorithm solutions for leet-code challenges.
 344-reverse-string: https://leetcode.com/problems/reverse-string/
 
 557-reverse-words-in-a-string-iii - https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+### Day5: two-pointers:
+
+876-middle-of-the-linked-list.java - https://leetcode.com/problems/middle-of-the-linked-list/
+
+19-remove-nth-node-from-end-of-list.java: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
