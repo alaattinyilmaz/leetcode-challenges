@@ -35,3 +35,9 @@ Algorithm solutions for leet-code challenges.
 876-middle-of-the-linked-list.java - https://leetcode.com/problems/middle-of-the-linked-list/
 
 19-remove-nth-node-from-end-of-list.java: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+### Day6: sliding-windows:
+
+3-longest-substring-without-repeating-characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+567-permutation-in-string: https://leetcode.com/problems/permutation-in-string/
