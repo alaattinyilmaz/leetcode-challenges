@@ -36,8 +36,14 @@ Algorithm solutions for leet-code challenges.
 
 19-remove-nth-node-from-end-of-list.java: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
-### Day6: sliding-windows:
+### Day6: sliding-window:
 
 3-longest-substring-without-repeating-characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 567-permutation-in-string: https://leetcode.com/problems/permutation-in-string/
+
+### Day7: depth-first-search:
+
+695-max-area-of-island: https://leetcode.com/problems/max-area-of-island/
+
+733-flood-fill: https://leetcode.com/problems/flood-fill/
