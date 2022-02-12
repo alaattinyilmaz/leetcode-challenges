@@ -47,3 +47,9 @@ Algorithm solutions for leet-code challenges.
 695-max-area-of-island: https://leetcode.com/problems/max-area-of-island/
 
 733-flood-fill: https://leetcode.com/problems/flood-fill/
+
+### Day8: bread-first-search-depth-first-search:
+
+617-merge-two-binary-trees: https://leetcode.com/problems/merge-two-binary-trees/
+
+116-populating-next-right-pointers-in-each-node: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
