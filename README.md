@@ -53,3 +53,9 @@ Algorithm solutions for leet-code challenges.
 617-merge-two-binary-trees: https://leetcode.com/problems/merge-two-binary-trees/
 
 116-populating-next-right-pointers-in-each-node: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+
+### Day9: bread-first-search-depth-first-search
+
+542-01-matrix: https://leetcode.com/problems/01-matrix/
+
+994-rotating-oranges: https://leetcode.com/problems/rotting-oranges/
