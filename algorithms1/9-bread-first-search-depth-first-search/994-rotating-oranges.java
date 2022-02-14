@@ -25,7 +25,6 @@ class Solution {
             int c = currentCell[1];
             int min = currentCell[2];
             min++;
-            System.out.print("queue ("+r+","+c+") ");
             int sameTime = 0;
             boolean rottenMinute = false;
             for (int d = 0; d < directions.length; d++) {
@@ -39,7 +38,6 @@ class Solution {
                 if (grid[r_d][c_d] == 1) {
                     grid[r_d][c_d] = 2;
                     rottenNumber++;
-                    System.out.print(",minute"+minute+" rotten: ("+r_d+","+c_d+") ");
                     queue.add(new int[] {r_d, c_d, min});
                     if (orangeNumber == rottenNumber)
                         return min;

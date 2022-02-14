@@ -59,3 +59,9 @@ Algorithm solutions for leet-code challenges.
 542-01-matrix: https://leetcode.com/problems/01-matrix/
 
 994-rotating-oranges: https://leetcode.com/problems/rotting-oranges/
+
+### Day10: recursion-backtracking
+
+21-merge-two-sorted-lists: https://leetcode.com/problems/merge-two-sorted-lists/
+
+206-reverse-linkedlist: https://leetcode.com/problems/reverse-linked-list/

@@ -42,6 +42,7 @@ class Solution {
     }
 }
 
+// DFS Approach
 class Solution2 {
     public Node connect(Node root) {
         if (root == null)
